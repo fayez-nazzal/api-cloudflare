@@ -1,7 +1,6 @@
 name: Publish @fayeznazzal/deploy-cloudflare npm package
 on:
-  release:
-    types: [created]
+  push:
 defaults:
   run:
     working-directory: deploy
