@@ -1,4 +1,4 @@
-name: Publish @tiny-frontend/deploy-cloudflare npm package
+name: Publish @fayeznazzal/deploy-cloudflare npm package
 on:
   release:
     types: [created]
